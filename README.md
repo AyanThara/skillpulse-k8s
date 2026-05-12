@@ -386,8 +386,8 @@ The Kubernetes half of the course evolves this same app onto a cluster:
 
 Same app. Same pipeline shape. Different runtime — and a lot more power.
 
----
+-----
 
-## Credits
 
-Built for the [TrainWithShubham](https://www.youtube.com/@TrainWithShubham) community. If this repo helped you understand a real CI/CD pipeline end to end, share it forward — that's how the community grows.
+
+Built for the Education Purpose. If this repo helped you understand a real CI/CD pipeline end to end, share it forward — that's how the community grows.
